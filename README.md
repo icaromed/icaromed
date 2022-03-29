@@ -1,6 +1,6 @@
 ### Hello there, I'm Ícaro! 👋
 
-- 🌱 I’m currently learning Python OOP.
+- 🌱 I’m currently learning Python RegEx.
 - 👯 I’m looking to collaborate with other devs!
 - 🤔 I’m looking for help with becoming a better professional.
 - 💬 Ask me about anything! (Especially about tech).
