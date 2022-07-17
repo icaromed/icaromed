@@ -5,7 +5,6 @@
 - 👯 I’m looking to collaborate with other devs!
 - 🤔 I’m looking for help with becoming a better professional.
 - 💬 Ask me about anything! (Especially about tech).
-- 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I enjoy playing songs on my guitar during my study breaks.
 - 📫 How to reach me:
 
