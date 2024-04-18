@@ -1,7 +1,7 @@
 ### Hello there, I'm Ícaro! 👋
 
 - 🔭 I'm currently working on personal projects that challenge myself as a Dev.
-- 🌱 I’m currently learning Concurrency and I study in Uesb!
+- 🌱 I’m currently learning Web Automation and Selenium!
 - 👯 I’m looking to collaborate with other devs!
 - 🤔 I’m looking for help with becoming a better professional.
 - 💬 Ask me about anything! (Especially about tech).
